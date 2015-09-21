@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-8cd2639d4333bd656ab738188c89c1b22bf634fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-64a684d0a92cee17dd1863f00af75bfeb4abba5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-5931575754715f85f648d2f7c81ea363012193ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-9e26c24f2571aebdd9b1e0d5e22a0a647034a255.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-b1f2dc8956962ba4d4477ff328364a29a6fb711e.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-1b7bdff4e6ef422001aa01f97ec1000daa63cad0.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-ef4bb4fd00d617d4c582089d64731eae3c46a88f.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-d358557bfd507219a23f80d7d2930d24995adf45.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-e0626f4178561f94fb00dd61039922cf9d7a1222.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-17e8024be5c47751765009c242c9ca9120b04634.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-d2ab9db4e587dd0d2f45c387af3abc4290c46e40.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0e37b3bace6feed4439215e1e5eff9ac98ca5862.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-107cc3e05a9cdb4616f421d24afcff27422213f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-fb64369167f413200765255c3800728940c45a07.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-c7cba7ab42bfc111c1761868b55b0efc9d32d256.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-5d7fcc53f83c308ec71764fee6137a5a8bb4a787.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-035a67699e508280f8c9008ebaf1650c9e8b9fd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-2416b1e855d5b140cee2d1a46d7cfc8a62bd7541.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-53b8d620c60b8bf6162bf6bd0f8a8ffaa4d6b54a.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-1581a9ed582791fc8aeda126a11eb79b5edc35d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-1e82ef50b451f7f051a12b1816a233e8b3b23377.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-a790729e6313fd0eb6d2a7688891fc452dff0646.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-279020c01296ea69398d939431eb6aab7a99d943.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\abdo\AndroidStudioProjects\MineSweeper1\app\build\intermediates\pre-dexed\debug\classes-c44f65f5e6fc1e471dd50b678f5d7845864bd60e.jar" />
+    </item>
+
+</items>

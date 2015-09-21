@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape android:shape="rectangle" >
+            <corners
+                android:bottomLeftRadius="0dp"
+                android:bottomRightRadius="@dimen/cell_radius"
+                android:topLeftRadius="@dimen/cell_radius"
+                android:topRightRadius="0dp" />
+
+            <stroke
+                android:width="0.5dp"
+                
+                android:color="#000000" />
+
+            <gradient
+                android:angle="-90"
+                android:centerColor="#595959"
+                android:endColor="#525252"
+                android:startColor="#c1c1c1" />
+
+            <padding
+                android:bottom="3dp"
+                android:left="3dp"
+                android:right="1dp"
+                android:top="3dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle" >
+            <corners
+                android:bottomLeftRadius="0dp"
+                android:bottomRightRadius="@dimen/cell_radius"
+                android:topLeftRadius="@dimen/cell_radius"
+                android:topRightRadius="0dp" />
+
+            <gradient
+                android:angle="-90"
+                android:endColor="#a3a2a2"
+                android:startColor="#cecece" />
+
+            <padding
+                android:bottom="1dp"
+                android:left="1dp"
+                android:right="1dp"
+                android:top="1dp" />
+        </shape>
+    </item>
+
+</layer-list><!-- From: file:/C:/Users/abdo/AndroidStudioProjects/MineSweeper1/app/src/main/res/drawable/face_btn_bg.xml -->

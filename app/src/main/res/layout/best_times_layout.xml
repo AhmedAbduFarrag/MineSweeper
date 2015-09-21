@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/best_times_level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:padding="3dp"
+        android:textColor="#FFFFFF"
+        android:text="Large Text" />
+
+    <TextView
+        android:id="@+id/best_times_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/best_times_level"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@+id/best_times_reset"
+        android:layout_toRightOf="@+id/best_times_level"
+        android:layout_toStartOf="@+id/best_times_reset"
+        android:layout_toEndOf="@+id/best_times_level"
+        android:gravity="center"
+        android:text="Large Text"
+        android:textColor="#FFFFFF" />
+
+    <ImageButton
+        android:id="@+id/best_times_reset"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/ring_selector"
+        android:src="@drawable/ic_reset" />
+
+</RelativeLayout>

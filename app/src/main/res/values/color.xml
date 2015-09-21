@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg1">#1b1b1a</color>
+    <color name="bg">#595959</color>
+    <color name="menu_text_color">#212121</color>
+    <color name="green">#009933</color>
+    <color name="blue">#00709e</color>
+    <color name="red">#df0024</color>
+    <color name="yallow">#cccc00</color>
+    <color name="purple">#67087b</color>
+    <color name="pink">#e3007b</color>
+    <color name="orange">#e8641b</color>
+    <color name="brown">#8c4507</color>
+
+    <array name="color_array">
+        <item>@color/green</item>
+        <item>@color/blue</item>
+        <item>@color/red</item>
+        <item>@color/yallow</item>
+        <item>@color/purple</item>
+        <item>@color/orange</item>
+        <item>@color/pink</item>
+        <item>@color/brown</item>
+    </array>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp" >
+
+    <ImageButton
+        android:id="@+id/sittings_iBtn_sound"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/ring_selector"
+        android:src="@drawable/ic_sound" />
+
+    <ImageButton
+        android:id="@+id/sittings_iBtn_vibration"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:layout_toLeftOf="@+id/sittings_iBtn_sound"
+        android:layout_marginEnd="8dp"
+        android:layout_toStartOf="@+id/sittings_iBtn_sound"
+        android:background="@drawable/ring_selector"
+        android:paddingLeft="2dp"
+        android:paddingStart="2dp"
+        android:paddingRight="2dp"
+        android:paddingEnd="2dp"
+        android:src="@drawable/ic_vibration" />
+
+    <ImageButton
+        android:id="@+id/sittings_iBtn_zoom_in"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:layout_toLeftOf="@+id/sittings_iBtn_vibration"
+        android:layout_marginEnd="8dp"
+        android:layout_toStartOf="@+id/sittings_iBtn_vibration"
+        android:background="@drawable/ring_selector"
+       android:paddingLeft="2dp"
+        android:paddingStart="2dp"
+        android:paddingRight="2dp"
+        android:paddingEnd="2dp"
+        android:paddingTop="2dp"
+        android:src="@drawable/ic_zoom_in" />
+
+    <ImageButton
+        android:id="@+id/sittings_iBtn_zoom_out"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:layout_toLeftOf="@+id/sittings_iBtn_zoom_in"
+        android:layout_marginEnd="8dp"
+        android:layout_toStartOf="@+id/sittings_iBtn_zoom_in"
+        android:background="@drawable/ring_selector"
+        android:paddingLeft="2dp"
+        android:paddingStart="2dp"
+        android:paddingRight="2dp"
+        android:paddingEnd="2dp"
+        android:paddingTop="2dp"
+        android:src="@drawable/ic_zoom_out" />
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="5dp"
+        layout="@layout/custom_main_title" />
+
+</RelativeLayout>

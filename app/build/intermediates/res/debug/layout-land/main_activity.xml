@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg" >
+
+    <ImageView
+        android:id="@+id/ImageView1"
+        android:layout_width="320dp"
+        android:layout_height="130dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+       
+        android:padding="4dp"
+        android:src="@drawable/logo" />
+
+    <FrameLayout
+        android:id="@+id/fragments_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       
+        android:layout_above="@+id/adView"
+        android:layout_below="@+id/ImageView1" >
+    </FrameLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="ca-app-pub-4938161162333004/6658395174" >
+    </com.google.android.gms.ads.AdView>
+
+    <ImageButton
+        android:id="@+id/iBtn_main_back"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignLeft="@+id/ImageView1"
+        android:layout_alignStart="@+id/ImageView1"
+        android:layout_alignTop="@+id/ImageView1"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="35dp"
+        android:background="@drawable/ring_selector"
+        android:src="@drawable/ic_back_1" />
+
+</RelativeLayout><!-- From: file:/C:/Users/abdo/AndroidStudioProjects/MineSweeper1/app/src/main/res/layout-land/main_activity.xml -->
